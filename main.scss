@@ -1,0 +1,275 @@
+$primary-color: #333;
+$main-color:#FFFFFF;
+$plan-color:#F6F6F6;
+$button-sign_in:#F53855;
+$button-get_started: #F53838;
+$little-maim-text-color: #4F5665;
+$text: #0B132A;
+$border:#DDDDDD;
+body {
+    width: 100%;
+    margin: 0;
+    background-image: ();
+    font-family: 'Rubik', sans-serif;
+}
+
+a,
+a:link,
+a:visited,
+a:focus,
+a:hover,
+a:active {
+    color: $little-maim-text-color;
+    text-decoration: none;
+}
+
+.main-page {
+    background-color: $main-color;
+    width: 100%;
+}
+
+.sign_up {
+    width: 150px;
+    height: 45px;
+    border: 1px solid $button-sign_in;
+    border-radius: 50px;
+    color: $button-sign_in;
+    background-color: $main-color;
+}
+
+.sign_up p {
+    margin: 0;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 19px;
+}
+
+.text-sign_in {
+    margin: 0;
+    font-size: 16px;
+    line-height: 19px;
+    color: $text;
+}
+
+.btn-sign-up {
+    margin-left: 30px;
+}
+
+.text {
+    color: $little-maim-text-color;
+}
+
+.h-t-ps {
+    display: flex;
+    color: $little-maim-text-color;
+}
+
+.header {
+    top: 0;
+    background-color: $main-color;
+}
+
+.btn-ps {
+    display: flex;
+    align-items: baseline;
+    margin-left: 150px;
+}
+
+.get_started {
+    width: 250px;
+    height: 60px;
+    background-color: $button-get_started;
+    border: $button-get_started;
+    border-radius: 10px;
+    color: $main-color;
+    margin-top: 50px;
+}
+
+.text-lasles {
+    font-size: 50px;
+    line-height: 70px;
+    font-weight: 700;
+}
+
+.text-discover {
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 400;
+}
+
+.features-page {
+    background-color: $main-color;
+    height: 641px;
+}
+
+.plan-page {
+    background-color: $plan-color;
+    height: 2240px;
+}
+
+.text_provide {
+    color: $text;
+    font-size: 35px;
+    line-height: 50px;
+}
+
+.text_explore {
+    font-size: 16px;
+    line-height: 30px;
+    color: $text;
+}
+
+.img_powerfull {
+    display: flex;
+    align-items: baseline;
+}
+
+.power {
+    margin: 25px;
+}
+
+.il_1 {
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 40px;
+    margin-right: 169px;
+}
+
+.h-d-two {
+    display: flex;
+    // justify-content: flex-end;
+}
+
+.h-d {
+    margin-top: 56px;
+    margin-left: 150px;
+    margin: 56px 157px 0px 150px;
+}
+
+.h-t-ps {
+    margin-top: 50px;
+}
+
+.mp-p {
+    display: flex;
+    justify-content: center;
+}
+
+.text-lasles {
+    margin-top: 0;
+}
+
+.text-lasles pi {
+    margin-bottom: 0;
+}
+
+.f {
+    display: flex;
+}
+
+.text_lds p {
+    display: flex;
+    justify-content: center;
+}
+
+.text-discover {
+    margin: 0;
+}
+
+.tx-ld {
+    padding-top: 80px;
+}
+
+.mp r {
+    width: 50%;
+    display: flex;
+}
+
+.mp l {
+    width: 50%;
+    width: 657px;
+    height: 407px;
+    display: flex;
+}
+
+.img-huge {
+    margin-top: 156px;
+    display: flex;
+    justify-content: center;
+}
+
+.im-us-p {
+    display: flex;
+    justify-content: center;
+}
+
+.im-us2 {
+    width: 1140px;
+    height: 200px;
+    display: flex;
+    margin-top: 104px;
+    justify-content: space-around;
+}
+
+.free-i {
+    width: 330px;
+    height: 760px;
+    border: 2px solid $border;
+    border-radius: 10px;
+    // margin-left: 50px;
+    // margin-top: 40px;
+    margin: 40px 25px 150px;
+}
+
+.free-p {
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+.im-p-im {
+    display: flex;
+    justify-content: center;
+}
+
+.p-t {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.f-text {
+    margin-top: 130px;
+    display: flex;
+    justify-content: center;
+}
+
+.btn-s-u {
+    display: flex;
+    justify-content: center;
+}
+
+.f-text-y {
+    margin-top: 90px;
+    display: flex;
+    justify-content: center;
+}
+
+.f-text-x {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.the-box {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-ps {
+    margin-top: 52px;
+}
+
+.ps {
+    margin-left: 40px;
+}
